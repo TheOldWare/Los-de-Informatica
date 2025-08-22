@@ -9,7 +9,7 @@ body{
     transition: filter 0.5s ease;
     transition: transform 0.5s ease;
     position: absolute;
-    left: 2%;
+    left: 5%;
     top: 6%;
 }
 .LDI:hover{
