@@ -9,8 +9,8 @@ body{
     transition: filter 0.5s ease;
     transition: transform 0.5s ease;
     position: absolute;
-    left: 4%;
-    top: 10%;
+    left: 2%;
+    top: 6%;
 }
 .LDI:hover{
     filter: invert(90%) blur(0);
